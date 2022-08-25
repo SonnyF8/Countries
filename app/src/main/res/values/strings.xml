@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Countries</string>
+
+    <string name="network_error">Network Access Error</string>
+    <string name="check_settings">\nCheck your WiFi or Phone Settings</string>
+    <string name="exit">Exit</string>
+
+    <string name="no_data">Nothing to Show</string>
+</resources>
